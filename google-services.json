@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840261427613",
+    "project_id": "khushgolpo",
+    "storage_bucket": "khushgolpo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840261427613:android:9417ab24359bd02d4d8f74",
+        "android_client_info": {
+          "package_name": "com.example.khushgolpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840261427613-d79ho3sts2bm3bb49a6o6a57oenp62er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyjcXhL-_orwgrlgAD2YihQSKynxR0Xko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840261427613-d79ho3sts2bm3bb49a6o6a57oenp62er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -36,5 +36,15 @@
       <option name="name" value="maven" />
       <option name="url" value="file:/$PROJECT_DIR$/app/tmp/repo" />
     </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="file:/$PROJECT_DIR$/../../OLD%20HDSS/KhushGolpo/tmp/repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="file:/$PROJECT_DIR$/../../OLD%20HDSS/KhushGolpo/app/tmp/repo" />
+    </remote-repository>
   </component>
 </project>
